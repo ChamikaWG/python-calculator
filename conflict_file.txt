@@ -1,1 +1,3 @@
-conflict file
+
+
+Content from branch B
